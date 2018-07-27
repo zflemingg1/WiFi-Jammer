@@ -30,7 +30,7 @@ def banner():
 	print colored("  ':.      ",'green'),
 	print colored("/_____\\ ",'green',attrs=['blink']),
 	print colored("    ,:'     ",'green'),
-	print colored("https://github.com/derv82/wifite2",'white')
+	print colored("https://github.com/zflemingg1/WiFi-Jammer",'white')
 	print colored("           /       \\",'green',attrs=['blink'])
 	print colored (30 * "-", 'cyan')
 
